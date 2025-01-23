@@ -1,72 +1,66 @@
 [
   {
     "id": 1,
-    "productName": "E-Book: Learn JavaScript",
-    "price": 19.99,
-    "description": "A comprehensive guide to mastering JavaScript, suitable for beginners and experienced developers alike.",
-    "imageUrl": "https://my-custom-api.vercel.app/dummy-img.jpg"
+    "productName": "Website Template - Matias",
+    "rating":4,
+    "price": 39,
+    "description": "A responsive, modern, and customizable website template designed for businesses and portfolios. Includes multiple pre-designed pages and components for easy editing.",
+    "imageUrl": "https://my-custom-api.vercel.app/web-temp.jpg"
   },
   {
     "id": 2,
-    "productName": "Online Course: Python for Beginners",
-    "price": 29.99,
-    "description": "An interactive online course to help you learn Python programming from scratch.",
-    "imageUrl": "https://my-custom-api.vercel.app/dummy-img.jpg"
+    "productName": "The Ultimate UI/UX Design Kit",
+    "rating":5,
+    "price": 49,
+    "description": "A comprehensive design kit that includes a wide range of UI/UX design elements, such as wireframes, icons, and graphics. It's perfect for designers and developers who want to create stunning and user-friendly interfaces.",
+    "imageUrl": "https://my-custom-api.vercel.app/design-kit.jpg"
   },
   {
     "id": 3,
-    "productName": "Web Development Bootcamp",
-    "price": 99.99,
-    "description": "Full-stack web development training with hands-on projects and tutorials.",
-    "imageUrl": "https://my-custom-api.vercel.app/dummy-img.jpg"
+    "productName": "E-commerce Website Template",
+    "rating":4,
+    "price": 39,
+    "description": "A professional and responsive e-commerce website template designed for online stores. It features a clean and modern design, easy product management options, and is optimized for conversions",
+    "imageUrl": "https://my-custom-api.vercel.app/e-commerce.png"
   },
   {
     "id": 4,
-    "productName": "Design Templates Pack",
-    "price": 15.99,
-    "description": "A collection of beautifully designed templates for websites, presentations, and more.",
-    "imageUrl": "https://my-custom-api.vercel.app/dummy-img.jpg"
+    "productName": "The Social Media Marketing eBook",
+    "rating":4,
+    "price": 19,
+    "description": "A comprehensive guide to social media marketing that covers topics such as creating a social media strategy, building a brand, and measuring success. It's perfect for marketers and entrepreneurs who want to improve their social media presence.",
+    "imageUrl": "https://my-custom-api.vercel.app/smm-book.png"
   },
   {
     "id": 5,
-    "productName": "Stock Photos Collection",
-    "price": 49.99,
-    "description": "A library of high-quality stock photos for use in your digital projects.",
-    "imageUrl": "https://my-custom-api.vercel.app/dummy-img.jpg"
+    "productName": "Minimalist Resume Template",
+    "rating":5,
+    "price": 12,
+    "description": " A clean and modern resume template designed to help you stand out in the job market. It features a minimalist design, easy customization options, and is optimized for applicant tracking systems",
+    "imageUrl": "https://my-custom-api.vercel.app/resume.jpg"
   },
   {
     "id": 6,
-    "productName": "Music Production Software",
-    "price": 149.99,
-    "description": "A professional software suite for creating, editing, and producing music tracks.",
-    "imageUrl": "https://my-custom-api.vercel.app/dummy-img.jpg"
+    "productName": "The Complete WordPress Theme Bundle",
+    "rating":5,
+    "price": 129,
+    "description": "A bundle of 10 premium WordPress themes designed for businesses, bloggers, and entrepreneurs. It features a wide range of designs, easy customization options, and is optimized for search engines",
+    "imageUrl": "https://my-custom-api.vercel.app/wpthemes.jpg"
   },
   {
     "id": 7,
-    "productName": "Online Marketing Mastery",
-    "price": 79.99,
-    "description": "An expert-led course to master digital marketing, SEO, and social media strategies.",
-    "imageUrl": "https://my-custom-api.vercel.app/dummy-img.jpg"
+    "productName": "The Ultimate Graphic Design Bundle",
+    "rating":5,
+    "price": 149,
+    "description": "A bundle of graphic design assets that includes templates, icons, and graphics. It's perfect for designers and marketers who want to create stunning visual content.",
+    "imageUrl": "https://my-custom-api.vercel.app/gfxbundle.jpg"
   },
   {
     "id": 8,
-    "productName": "Mobile App Development Kit",
-    "price": 59.99,
-    "description": "All-in-one development kit for creating Android and iOS apps from scratch.",
-    "imageUrl": "https://my-custom-api.vercel.app/dummy-img.jpg"
-  },
-  {
-    "id": 9,
-    "productName": "Premium Website Themes",
-    "price": 39.99,
-    "description": "A selection of premium, customizable website themes for various niches.",
-    "imageUrl": "https://my-custom-api.vercel.app/dummy-img.jpg"
-  },
-  {
-    "id": 10,
-    "productName": "Photoshop Action Presets",
-    "price": 12.99,
-    "description": "A collection of custom Photoshop actions to enhance your editing workflow.",
-    "imageUrl": "https://my-custom-api.vercel.app/dummy-img.jpg"
+    "productName": "Landing Page Template",
+    "rating":5,
+    "price": 29,
+    "description": "A professional and responsive landing page template designed to help you increase conversions. It features a clean and modern design, easy customization options, and is optimized for search engines.",
+    "imageUrl": "https://my-custom-api.vercel.app/landing-temp.jpg"
   }
 ]
